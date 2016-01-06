@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="action_settings">Settings</string>
+    <string name="IeSettings">设置</string>
+    <string name="IeMyOrder">我的订单</string>
+    <string name="Common_problem">常见问题</string>
+    <string name="About_jwt">关与家务通</string>
+</resources>
