@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\xm\\HelloWorld\\helloworld\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\xm\\HelloWorld\\helloworld\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\xm\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\xm\\HelloWorld\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\xm\\HelloWorld\\jwttest\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\xm\\HelloWorld\\jwttest\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

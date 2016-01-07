@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.dgsy.helloworld.MainActivity">
+    <item
+        android:id="@+id/IeSettings"
+        android:orderInCategory="100"
+        android:title="@string/IeSettings"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/IeMyOrder"
+        android:orderInCategory="100"
+        android:title="@string/IeMyOrder"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/Common_problem"
+        android:orderInCategory="100"
+        android:title="@string/Common_problem"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/About_jwt"
+        android:orderInCategory="100"
+        android:title="@string/About_jwt"
+        app:showAsAction="never"/>
+
+</menu>
